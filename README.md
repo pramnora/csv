@@ -17,10 +17,10 @@ which most editor software/and, too, computer programming languages are able to 
 The files are laid out in a table like format...that includes a number of rows/colums;  
 each successive piece of columnar data is kept separated from one another by using a comma(,):-  
     
-- Each row specifies a whole indivisual record in itself.  
+- Each row specifies a whole individual record in itself.  
 - Each column specifies specfic data inside of that individual record.
 
-As an example of what it is I mean...; here is a simple customer related (customer.csv) file...  
+As an example of what it is I mean...; here is a simple customer related file:  [customer.csv]...    
 
 - first name,last name,age,sex,location,country,phone number     
 - Jack,Jones,24,M,Mayfair,UK,0207    
