@@ -26,6 +26,9 @@ As an example of what it is I mean...; here is a simple customer related (custom
 - Jack,Jones,24,M,Mayfair,UK,0207    
 - Mary,Smith,30,F,Brixton,UK,0208  
 
-**NOTE**: The first line of the [.csv] file...will, optionally, specify what data is to be included inside of each separate column;  
-          however, because this named header is purely 'optional'...; therefore, you can't always rely on this to appear;   
-          it might just include the data...with no such obvious header.  
+**NOTE(1)**: The first line of the [.csv] file...will, optionally, specify what data is to be included inside of each separate column;  
+             however, because this named header is purely 'optional'...; therefore, you can't always rely on this to appear;   
+             it might just include the data...with no such obvious header.  
+
+**NOTE(2)**: See just how simple, straight forwards, and, easy...it is to write/design a [.csv] file...;    
+             basically, anybody can do it...who wants to proudce a very simple file containing a table of data.    
