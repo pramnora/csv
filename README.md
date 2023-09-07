@@ -12,7 +12,7 @@ CSV/Comma Separated Value files...do use file name extension (.csv):
 >filename.csv  
 
 ...they are a special kind of *plain text* data file...;   
-which most editor software/and, too, computer programming languages are able to read.    
+which most editor software/and, too, computer programming languages are able to read/write.      
 
 The files are laid out in a table like format...that includes a number of rows/colums;  
 each successive piece of columnar data is kept separated from one another by using a comma(,):-  
@@ -33,7 +33,7 @@ As an example of what it is I mean...; here is a simple customer related (custom
              it might just include only just the data, alone...with no such obvious explanatory headers at all.    
 
 **NOTE(2)**: See just how simple, straight forwards, and, easy...it is to write/design a [.csv] file...;    
-             basically, anybody can do it...who wants to proudce a very simple file containing tabular data.   
+             basically, anybody can do it...who wants to produce a very simple file containing tabular data.   
 
 **NOTE(3)**: It is optional if you choose to add a space to separate up each data items:  
              >abc,def,ghi   
