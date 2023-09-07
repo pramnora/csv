@@ -20,13 +20,11 @@ each successive piece of columnar data is kept separated from one another by usi
 - Each row specifies a whole indivisual record in itself.  
 - Each column specifies specfic data inside of that individual record.
 
-As an example of what it is I mean...; here is a simple food related (food.csv) file...  
+As an example of what it is I mean...; here is a simple food related (customer.csv) file...  
 
-- food,cost    
-- apple,50p    
-- banana,25p  
-- chocolate bar,60p  
-- drink,£1.00    
+- first name,last name,age,sex,location,phone number     
+- Jack London,24,M,Mayfair,0207    
+- Mary Smith,30,F,Brixton,0208  
 
 **NOTE**: The first line of the [.csv] file...will, optionally, specify what data is to be included inside of each separate column;  
           however, because this named header is purely 'optional'...; therefore, you can't always rely on this to appear;   
