@@ -7,11 +7,11 @@ Comma separated value files
 
 ## Introduction  
 
-CSV/Comma Separated Value files...do used file name extension:  
+CSV/Comma Separated Value files...do use file name extension (.csv):  
 
 >filename.csv  
 
-...they are a special kind of plain text data file...;   
+...they are a special kind of *plain text* data file...;   
 which most editor software/and, too, computer programming languages are able to read.    
 
 The files are laid out in a table like format...that includes a number of rows/colums;  
