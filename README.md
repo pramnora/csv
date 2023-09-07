@@ -31,4 +31,10 @@ As an example of what it is I mean...; here is a simple customer related (custom
              it might just include the data...with no such obvious header.  
 
 **NOTE(2)**: See just how simple, straight forwards, and, easy...it is to write/design a [.csv] file...;    
-             basically, anybody can do it...who wants to proudce a very simple file containing a table of data.    
+             basically, anybody can do it...who wants to proudce a very simple file containing tabular data.  
+
+**NOTE(3)**: It is optional if you choose to add a space to separate up each data items:  
+             >abc,def  
+             >abc, def   
+             ...sometimes, people choose to not include any space...purely in order to save on computer memory;  
+             but, including a space between items is ok, as well.  
