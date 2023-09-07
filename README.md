@@ -20,7 +20,7 @@ each successive piece of columnar data is kept separated from one another by usi
 - Each row specifies a whole indivisual record in itself.  
 - Each column specifies specfic data inside of that individual record.
 
-As an example of what it is I mean...; here is a simple food related (customer.csv) file...  
+As an example of what it is I mean...; here is a simple customer related (customer.csv) file...  
 
 - first name,last name,age,sex,location,country,phone number     
 - Jack,Jones,24,M,Mayfair,UK,0207    
