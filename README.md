@@ -26,6 +26,8 @@ As an example of what it is I mean...; here is a simple customer related file:  
 - Jack,Jones,24,M,Mayfair,UK,0207    
 - Mary,Smith,30,F,Brixton,UK,0208  
 
+-----
+
 **NOTE(1)**: The first line of the [.csv] file...  
              will, optionally, specify exactly what data is to be included inside of each separate column;    
              however, because this named header is purely 'optional'...;     
